@@ -1,9 +1,10 @@
+# A este archivo lo vamos a ignorar
+
 #prueba1 de Git en Python
 #! Cuidado con esto
 #? No se si funcionará
 #* Atención a esto
 #// lo que dije ya no importa
-
 
 
 print("""
